@@ -12,11 +12,11 @@
 
 #### Download and Run PSOMT
 
-1. Download [PSOMT_WinClientv1_4_4.exe](./PSOMT_WinClientv1_4_4.exe) and [config.ini](./config.ini) to the same directory on your PT Bot local system.
+1. Download [PSOMT_WinClientV1_4_4.exe](./PSOMT_WinClientV1_4_4.exe) and [config.ini](./config.ini) to the same directory on your PT Bot local system.
 
 2. Open the config.ini file with an editor and set your parameters
 
-3. Run your PSOMT_WinClientv1_4_4.exe application
+3. Run your PSOMT_WinClientV1_4_4.exe application
 
 4. That's it!  When SOM signals from Trading View arrive, the client will receive and set your PTBot.
 
