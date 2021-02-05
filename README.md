@@ -50,7 +50,7 @@
 
 2. Unzip and cd into PSOMT_LinuxClientv1_4_3 directory
 
-3. 2. Open the config.ini file with an editor and set your parameters
+3. Open the config.ini file with an editor and set your parameters
 
 4. Run your PSOMT_LinuxClientv1_4_3.bin
 
