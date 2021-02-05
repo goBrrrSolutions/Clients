@@ -1,4 +1,4 @@
-##  Portable Sell Only Mode Toggle V1.4
+##  Portable Sell Only Mode Toggle V1.4  (Tuned for use with Binance market indicators)
 
 ### Windows Client:
 
@@ -6,7 +6,7 @@
 
 1. 64bit Windows operating system 
 
-2. Profit Trailer Bot
+2. Profit Trailer 
 
 3. PT Feeder
 
@@ -26,7 +26,7 @@
 
 1. 64bit Linux operating system 
 
-2. Profit Trailer Bot
+2. Profit Trailer
 
 3. PT Feeder
 
