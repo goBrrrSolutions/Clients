@@ -1,5 +1,5 @@
 ##  Portable Sell Only Mode Toggle V1.4  
-###(Tuned for use with Binance market indicators)
+### (Tuned for use with Binance market indicators)
 
 ### Windows Client:
 
