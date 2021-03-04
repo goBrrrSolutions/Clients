@@ -46,15 +46,15 @@
 
 #### For slower Linux systems
 
-1. Consider downloading the .zip file version with the support files in one directory. [PSOMT_LinuxClientv1_4_3.zip](./PSOMT_LinuxClientv1_4_3.zip)
+1. Consider downloading the .zip file version with the support files in one directory. [PSOMT_LinuxClientv1_4_7.zip](./PSOMT_LinuxClientv1_4_7.zip)
 
-2. Unzip and cd into PSOMT_LinuxClientv1_4_3 directory
+2. Unzip and cd into PSOMT_LinuxClientv1_4_7 directory
 
 3. Open the config.ini file with an editor and set your parameters
 
-4. Run your PSOMT_LinuxClientv1_4_3.bin
+4. Run your PSOMT_LinuxClientv1_4_7.bin
 
-    `./PSOMT_LinuxClientv1_4_3.bin`
+    `./PSOMT_LinuxClientv1_4_7.bin`
 
 ** Bonus tip:  Consider installing screen and running this in a screen session
 
@@ -62,7 +62,7 @@
 
 ** screen -S SOMT
 
-** ./PSOMT_LinuxClientv1_4_0.bin
+** ./PSOMT_LinuxClientv1_4_7.bin
 
 ** ctrl+a ctrl+d to return to normal terminal
 
